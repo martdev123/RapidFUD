@@ -2,7 +2,9 @@
 A simple runner to generate a spoofed cert for msfvenom payload to bypass all AV's signature
 
 Usage
-git clone https://github.com/martdev123/RapidFUD
+
+open terminal
+sudo git clone https://github.com/martdev123/RapidFUD
 
 1) Extract the correct version of the signer by checking your Kali Linux distros (x64, x86)
 2) chmod 777 FUD86.elf
