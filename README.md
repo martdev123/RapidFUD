@@ -11,7 +11,7 @@ sudo git clone https://github.com/martdev123/RapidFUD
 3) chmod 777 FUD64.elf
 4) Open terminal as ROOT;
 5)  Type ./FUD86.elf or ./FUD64.elf (depending on your type of distro)
-6)  Runner will download dependancies automatically and this will take approximatively 10 minutes;
+6)  Runner will download dependancies automatically and this will take approximatively 10 minutes, keep it open;
 7)  Keep it running while generating a msfvenom payload and drop it in the same folder of where the runner is located
 
 PROFIT
