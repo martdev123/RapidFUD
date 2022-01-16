@@ -8,5 +8,6 @@ A simple runner to generate a spoofed cert for msfvenom payload to bypass all AV
 3sudo su
 then ./FUD64.elf
 5 Fud crypter needs at least 5 minutes to run to stay idle in order to download dependancies
+While tool is running generate a msfvenom payload in the same folder where crypter is located
 
 Supported just by Kali Linux AMD64
