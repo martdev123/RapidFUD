@@ -3,7 +3,10 @@
 
 * Just rewritten in python, this should resolve problem compatibility between x86 and x64 linux distros #powerofpython
 just open terminal and run python FUD.py
-A simple runner to generate a spoofed cert for msfvenom payload to bypass all AV's signature
+
+
+
+*A simple runner to generate a spoofed cert for msfvenom payload to bypass all AV's signature*
 
 
 #OLD METHOD
