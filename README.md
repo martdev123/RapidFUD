@@ -16,4 +16,4 @@ Supported just by Kali Linux AMD64
 
 Sometimes main files are missing becouse it's still working in progress
 
----> Archive password: msfconsole <---
+---> ZIP Archive password: msfconsole <---
