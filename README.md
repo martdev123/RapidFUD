@@ -17,3 +17,5 @@ Supported just by Kali Linux AMD64
 Sometimes main files are missing becouse it's still working in progress
 
 ---> ZIP Archive password: msfconsole <---
+
+After generating the spoofed-cert version of new-fresh generated payload make it harder to be scouted by using x86/shikata_ga_nai and aes256 encryption
