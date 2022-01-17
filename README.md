@@ -13,3 +13,5 @@ then ./FUD64.elf
 While tool is running generate a msfvenom payload in the same folder where crypter is located
 
 Supported just by Kali Linux AMD64
+
+Sometimes main files are missing becouse it's still working in progress
