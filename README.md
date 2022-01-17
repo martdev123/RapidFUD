@@ -8,7 +8,7 @@ A simple runner to generate a spoofed cert for msfvenom payload to bypass all AV
 3 then type in terminal sudo su
 then ./FUD64.elf
 
-4 Fud crypter needs like 5 minutes to stay idle in order to download dependancies
+4 Fud crypter needs like 5 minutes to stay idle in order to download dependancies (leave open in terminal for a while)
 
 While tool is running generate a msfvenom payload in the same folder where crypter is located
 
