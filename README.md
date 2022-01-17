@@ -9,7 +9,10 @@ just open terminal and run python FUD.py
 *A simple runner to generate a spoofed cert for msfvenom payload to bypass all AV's signature*
 
 
-#OLD METHOD
+#OLD METHOD [archived]
+
+
+
 1 Extract archive
 2 open terminal and type chmod 777 FUD64.elf
 
